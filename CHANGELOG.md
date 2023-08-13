@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/nevengjoreski/test-actions/compare/v2.2.0...v2.3.0) (2023-08-13)
+
+
+### Features
+
+* fine tuning release ([1ed1f04](https://github.com/nevengjoreski/test-actions/commit/1ed1f040c0a6fec7355a3d0382ae9a5b0360d050))
+
 # [2.2.0](https://github.com/nevengjoreski/test-actions/compare/v2.1.0...v2.2.0) (2023-08-13)
 
 
