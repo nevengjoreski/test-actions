@@ -1,4 +1,5 @@
 {
+  "name": "neno-test-actions",
   "devDependencies": {
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/github": "^9.0.4",
