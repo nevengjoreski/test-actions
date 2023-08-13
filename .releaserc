@@ -1,18 +1,26 @@
 {
   "branches": [
-    "main"
+    "main",
+    {
+        name: 'beta',
+        prerelease: true
   ],
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
     [
+      '@semantic-release/changelog',
+      {
+        changelogFile: 'CHANGELOG.md'
+      }
+    ],
+    [
       "@semantic-release/git",
       {
         "assets": [
-          "package.json",
           "CHANGELOG.md"
         ],
-        "message": "semantic release: version ${nextRelease.version} \n\n${nextRelease.notes}"
+        "message": "chore(release): version ${nextRelease.version} [skip ci] \n\n${nextRelease.notes}"
       }
     ],
     "@semantic-release/github"
