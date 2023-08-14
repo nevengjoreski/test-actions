@@ -1,3 +1,10 @@
+## [2.3.1](https://github.com/nevengjoreski/test-actions/compare/v2.3.0...v2.3.1) (2023-08-14)
+
+
+### Bug Fixes
+
+* this is a fix message ([7c924d6](https://github.com/nevengjoreski/test-actions/commit/7c924d6f28b6134aeb9ffe471a3a5bd8cc65c672))
+
 # [2.3.0](https://github.com/nevengjoreski/test-actions/compare/v2.2.0...v2.3.0) (2023-08-13)
 
 
