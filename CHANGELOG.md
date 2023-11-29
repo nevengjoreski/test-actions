@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/nevengjoreski/test-actions/compare/v2.3.1...v3.0.0) (2023-11-29)
+
+
+### Features
+
+* askhdbaskdhgasd askjd hasdkja ([472ff77](https://github.com/nevengjoreski/test-actions/commit/472ff77d4a3c6a14c157865103adb89ae7a9a67a))
+
+
+### BREAKING CHANGES
+
+* This is destorying the dashboard if not applied
+
 ## [2.3.1](https://github.com/nevengjoreski/test-actions/compare/v2.3.0...v2.3.1) (2023-08-14)
 
 
