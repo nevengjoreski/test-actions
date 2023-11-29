@@ -1,3 +1,17 @@
+# [3.2.0](https://github.com/nevengjoreski/test-actions/compare/v3.1.0...v3.2.0) (2023-11-29)
+
+
+### Bug Fixes
+
+* adasdassaads ([7e7bb24](https://github.com/nevengjoreski/test-actions/commit/7e7bb24ff41523574c5c67a303b63a1c51254528))
+* adasdassaads ([f46717f](https://github.com/nevengjoreski/test-actions/commit/f46717f3a0259ea77c9639908504a92ac5b646dc))
+* adasdassaads ([bdcea6b](https://github.com/nevengjoreski/test-actions/commit/bdcea6b67d2c36f77e3048382099cf61603598fe))
+
+
+### Features
+
+* adasdassaads ([61f70c0](https://github.com/nevengjoreski/test-actions/commit/61f70c01a1c2bb2ed53501b974908b520180b50f))
+
 # [3.1.0](https://github.com/nevengjoreski/test-actions/compare/v3.0.0...v3.1.0) (2023-11-29)
 
 
