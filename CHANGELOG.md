@@ -1,3 +1,15 @@
+# [3.1.0](https://github.com/nevengjoreski/test-actions/compare/v3.0.0...v3.1.0) (2023-11-29)
+
+
+### Bug Fixes
+
+* askhdbaskdhgasd askjd 123 ([70e7ee8](https://github.com/nevengjoreski/test-actions/commit/70e7ee8f29a7b25da65cb71ee3c301d5d16db975))
+
+
+### Features
+
+* askhdbaskdhgasd askjd hasdkja ([dfca509](https://github.com/nevengjoreski/test-actions/commit/dfca50905756544bc457c6336656c501e2fceddc))
+
 # [3.0.0](https://github.com/nevengjoreski/test-actions/compare/v2.3.1...v3.0.0) (2023-11-29)
 
 
