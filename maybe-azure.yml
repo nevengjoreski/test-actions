@@ -18,5 +18,5 @@ steps:
       HUSKY: 0
     inputs:
       command: custom
-#      verbose: false
+      verbose: false
       customCommand: run ci:release
