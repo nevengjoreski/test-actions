@@ -1,3 +1,43 @@
+## [3.7.0](https://github.com/nevengjoreski/test-actions/compare/v3.6.0...v3.7.0) (2023-11-30)
+
+
+### :sparkles: Features
+
+* A new feature 1 ([c18e157](https://github.com/nevengjoreski/test-actions/commit/c18e157f3d53c35091976baee789c13060a13553))
+* A new feature 2 ([60f578a](https://github.com/nevengjoreski/test-actions/commit/60f578af6909b0b3c8d104647a911c8a8729ba3d))
+* A new feature 3 ([94f707b](https://github.com/nevengjoreski/test-actions/commit/94f707bc856b556582eb4ae0378e95028463b95b))
+
+
+### :bug: Bug Fixes
+
+* A new feature 3 ([a640608](https://github.com/nevengjoreski/test-actions/commit/a6406089ddf77764bf5f0b0e5f0c7883d0ad3762))
+
+
+### :memo: Documentation
+
+* Testing the commits ([0c2126b](https://github.com/nevengjoreski/test-actions/commit/0c2126b0cec528d8cce358d49eba0625d486a612))
+
+
+### :zap: Refactors
+
+* Testing the commits ([6858be4](https://github.com/nevengjoreski/test-actions/commit/6858be4785db3368e321e0ccc2b60f9edcaffcf8))
+
+
+### :fast_forward: Performance Improvements
+
+* Testing the commits ([a5af3c3](https://github.com/nevengjoreski/test-actions/commit/a5af3c32b9fb460fc0967b3c07ae9d47180ef902))
+* Testing the commits ([3f54aa9](https://github.com/nevengjoreski/test-actions/commit/3f54aa9761bbc960eca50c657b6718da6714201c))
+
+
+### :test_tube: Tests
+
+* Testing the commits ([684c29a](https://github.com/nevengjoreski/test-actions/commit/684c29af689ade962d3e42841b44b0b1770c59f0))
+
+
+### :repeat: CI
+
+* Testing the commits ([9d6dfa5](https://github.com/nevengjoreski/test-actions/commit/9d6dfa53ada4eee535c86afeb9e2850167844378))
+
 ## [3.6.0](https://github.com/nevengjoreski/test-actions/compare/v3.5.0...v3.6.0) (2023-11-30)
 
 
