@@ -1,0 +1,22 @@
+trigger:
+  - main
+pool:
+  vmImage: ubuntu-latest
+steps:
+  - task: NodeTool@0
+    displayName: Use node v18
+    inputs:
+      versionSpec: '18.x'
+  - task: Npm@1
+    displayName: Install NPM packages
+    inputs:
+      command: 'install'
+  - task: Npm@1
+    displayName: Bump version & Create release doc (semantic-release)
+    env:
+      GIT_CREDENTIALS: $(System.AccessToken)
+      HUSKY: 0
+    inputs:
+      command: custom
+      verbose: false
+      customCommand: run ci:release
