@@ -1,3 +1,10 @@
+# [3.5.0](https://github.com/nevengjoreski/test-actions/compare/v3.4.0...v3.5.0) (2023-11-30)
+
+
+### Features
+
+* A new feature 4 ([9ad8186](https://github.com/nevengjoreski/test-actions/commit/9ad818620c42a52d035a26e31aabe9333c842af2))
+
 # [3.4.0](https://github.com/nevengjoreski/test-actions/compare/v3.3.0...v3.4.0) (2023-11-30)
 
 
