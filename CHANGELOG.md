@@ -1,3 +1,22 @@
+# [3.4.0](https://github.com/nevengjoreski/test-actions/compare/v3.3.0...v3.4.0) (2023-11-30)
+
+
+### Bug Fixes
+
+* A new feature 1 ([0fd7a66](https://github.com/nevengjoreski/test-actions/commit/0fd7a662bba7f38eb9b737742551c87af9ce517a))
+
+
+### Features
+
+* A new feature 1 ([59b8353](https://github.com/nevengjoreski/test-actions/commit/59b8353e6b9fa01448c359512d9e5625088608ec))
+* A new feature 2 ([70ea7c8](https://github.com/nevengjoreski/test-actions/commit/70ea7c89ba2d304aedae9714cb13d4f6c273fe6e))
+* A new feature 3 ([4ec4011](https://github.com/nevengjoreski/test-actions/commit/4ec40110580c1abbdf712a83486462fde23433d3))
+
+
+### Performance Improvements
+
+* A new feature 1 ([7546c2a](https://github.com/nevengjoreski/test-actions/commit/7546c2a0266f5cb47f2a389f6ee07b83b066fa82))
+
 # [3.3.0](https://github.com/nevengjoreski/test-actions/compare/v3.2.0...v3.3.0) (2023-11-30)
 
 
