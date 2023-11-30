@@ -1,1 +1,1 @@
-console.log("testing release a new change chore 23!!")
+console.log("testing release a new change docs 23!!")
