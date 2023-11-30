@@ -17,6 +17,6 @@ steps:
       GIT_CREDENTIALS: $(System.AccessToken)
       HUSKY: 0
     inputs:
-#      command: custom
-#      verbose: false
+      command: custom
+      verbose: false
       customCommand: run ci:release
