@@ -15,7 +15,7 @@ steps:
     displayName: Bump version & Create release doc (semantic-release)
     env:
       GIT_CREDENTIALS: $(System.AccessToken)
-#      HUSKY: 0
+      HUSKY: 0
     inputs:
       command: custom
       verbose: false
