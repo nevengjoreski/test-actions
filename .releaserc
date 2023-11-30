@@ -4,90 +4,95 @@
   ],
   "plugins": [
     [
-          "@semantic-release/commit-analyzer",
+      "@semantic-release/commit-analyzer",
+      {
+        "preset": "conventionalcommits",
+        "releaseRules": [
           {
-            "releaseRules": [
-              {
-                "type": "refactor",
-                "release": "patch"
-              },
-              {
-                "type": "docs",
-                "release": "patch"
-              },
-              {
-                "type": "test",
-                "release": "patch"
-              },
-              {
-                "type": "style",
-                "release": "patch"
-              },
-              {
-                "type": "perf",
-                "release": "patch"
-              },
-              {
-                "type": "ci",
-                "release": "patch"
-              },
-              {
-                "type": "build",
-                "release": "patch"
-              }
-            ]
+            "type": "refactor",
+            "release": "patch"
+          },
+          {
+            "type": "docs",
+            "release": "patch"
+          },
+          {
+            "type": "test",
+            "release": "patch"
+          },
+          {
+            "type": "style",
+            "release": "patch"
+          },
+          {
+            "type": "perf",
+            "release": "patch"
+          },
+          {
+            "type": "ci",
+            "release": "patch"
+          },
+          {
+            "type": "build",
+            "release": "patch"
           }
-        ],
-        [
-          "@semantic-release/release-notes-generator",
           {
-            "preset": "conventionalcommits",
-            "presetConfig": {
-              "types": [
-                {
-                  "type": "feat",
-                  "section": ":sparkles: Features",
-                  "hidden": false
-                },
-                {
-                  "type": "fix",
-                  "section": ":bug: Bug Fixes",
-                  "hidden": false
-                },
-                {
-                  "type": "docs",
-                  "section": ":memo: Documentation",
-                  "hidden": false
-                },
-                {
-                  "type": "refactor",
-                  "section": ":zap: Refactors",
-                  "hidden": false
-                },
-                {
-                  "type": "perf",
-                  "section": ":fast_forward: Performance Improvements",
-                  "hidden": false
-                },
-                {
-                  "type": "test",
-                  "section": ":test_tube: Tests",
-                  "hidden": false
-                },
-                {
-                  "type": "ci",
-                  "section": ":repeat: CI",
-                  "hidden": false
-                },
-                {
-                  "type": "chore",
-                  "section": ":fast_forward: Performance Improvements",
-                  "hidden": false
-                }
-              ]
+            "type": "chore",
+            "release": "patch"
+          }
+        ]
+      }
+    ],
+    [
+      "@semantic-release/release-notes-generator",
+      {
+        "preset": "conventionalcommits",
+        "presetConfig": {
+          "types": [
+            {
+              "type": "feat",
+              "section": ":sparkles: New Features",
+              "hidden": false
+            },
+            {
+              "type": "fix",
+              "section": ":bug: Bug Fixes",
+              "hidden": false
+            },
+            {
+              "type": "docs",
+              "section": ":memo: Documentation",
+              "hidden": false
+            },
+            {
+              "type": "refactor",
+              "section": ":zap: Refactors",
+              "hidden": false
+            },
+            {
+              "type": "perf",
+              "section": ":zap: Performance Improvements",
+              "hidden": false
+            },
+            {
+              "type": "test",
+              "section": ":test_tube: Tests",
+              "hidden": false
+            },
+            {
+              "type": "ci",
+              "section": ":repeat: CI",
+              "hidden": false
+            },
+            {
+              "type": "chore",
+              "section": ":zap: Performance Improvements",
+              "hidden": false
             }
-          }
-        ],
+          ]
+        }
+      }
+    ],
     [
       '@semantic-release/changelog',
       {
