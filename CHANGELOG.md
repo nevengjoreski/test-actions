@@ -1,3 +1,10 @@
+## [3.6.0](https://github.com/nevengjoreski/test-actions/compare/v3.5.0...v3.6.0) (2023-11-30)
+
+
+### :sparkles: Features
+
+* A new feature 4 ([81ed5ce](https://github.com/nevengjoreski/test-actions/commit/81ed5ce5e333f5094559d1b0f4da3b7da3605ff2))
+
 # [3.5.0](https://github.com/nevengjoreski/test-actions/compare/v3.4.0...v3.5.0) (2023-11-30)
 
 
