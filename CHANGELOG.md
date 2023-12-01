@@ -1,3 +1,10 @@
+## [6.1.0](https://github.com/nevengjoreski/test-actions/compare/v6.0.0...v6.1.0) (2023-12-01)
+
+
+### :sparkles: New Features
+
+* Testing the commits! ([11ffef7](https://github.com/nevengjoreski/test-actions/commit/11ffef7da3d2dfed7fc44dad1933476880a0bedc))
+
 ## [6.0.0](https://github.com/nevengjoreski/test-actions/compare/v5.1.0...v6.0.0) (2023-12-01)
 
 
