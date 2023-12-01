@@ -1,3 +1,23 @@
+## [6.1.1](https://github.com/nevengjoreski/test-actions/compare/v6.1.0...v6.1.1) (2023-12-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* **release:** add exclimation mark
+* add exclimation mark
+* Testing the commits
+
+### :sparkles: New Features
+
+* add exclimation mark ([2c3c1df](https://github.com/nevengjoreski/test-actions/commit/2c3c1df8e57c5f2d9c3957861a82e3aae23d0e90))
+* **release:** add exclimation mark ([0e83b8f](https://github.com/nevengjoreski/test-actions/commit/0e83b8f8a0456e00ea043e70b7c0c9b7eedde65e))
+* Testing the commits ([b347825](https://github.com/nevengjoreski/test-actions/commit/b347825c02541d332026b741b05cdec19998525b))
+
+
+### :zap: Performance Improvements
+
+* adding a chore ([44ddfb7](https://github.com/nevengjoreski/test-actions/commit/44ddfb76f62d6808028e4f106f705d4f47c5fa25))
+
 ## [6.1.0](https://github.com/nevengjoreski/test-actions/compare/v6.0.0...v6.1.0) (2023-12-01)
 
 
