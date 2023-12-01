@@ -1,3 +1,14 @@
+## [5.0.0](https://github.com/nevengjoreski/test-actions/compare/v4.2.0...v5.0.0) (2023-12-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking change (singular) without space top
+
+### :sparkles: New Features
+
+* Testing the commits ([ab0f756](https://github.com/nevengjoreski/test-actions/commit/ab0f756d9ca096f60c322f55a373fbc6b4c65209))
+
 ## [4.2.0](https://github.com/nevengjoreski/test-actions/compare/v4.1.0...v4.2.0) (2023-12-01)
 
 
