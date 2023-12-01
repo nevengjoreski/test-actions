@@ -110,7 +110,7 @@ const branches = [
         "main"
 ]
 
-modules.exports = {
+module.exports = {
     "branches": branches,
     "plugins": [
         analyze,
