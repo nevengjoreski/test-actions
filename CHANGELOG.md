@@ -1,3 +1,10 @@
+## [5.1.0](https://github.com/nevengjoreski/test-actions/compare/v5.0.0...v5.1.0) (2023-12-01)
+
+
+### :sparkles: New Features
+
+* Testing the commits ([f560b82](https://github.com/nevengjoreski/test-actions/commit/f560b82bded26551c6ff069651275c8e0f2f62fa))
+
 ## [5.0.0](https://github.com/nevengjoreski/test-actions/compare/v4.2.0...v5.0.0) (2023-12-01)
 
 
