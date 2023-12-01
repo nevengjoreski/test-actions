@@ -1,3 +1,35 @@
+## [4.0.0](https://github.com/nevengjoreski/test-actions/compare/v3.7.0...v4.0.0) (2023-12-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* A breaking change
+* A breaking change
+* A breaking change
+- new changelog
+* A breaking change
+- new changelog
+* - new changelog
+
+### :sparkles: New Features
+
+* Testing the commits ([e420de4](https://github.com/nevengjoreski/test-actions/commit/e420de455cdde0e329086b9ed18bf8c7eebcea4f))
+* Testing the commits ([d945950](https://github.com/nevengjoreski/test-actions/commit/d945950787fc853227070d3d0817f39a4ccfdfac))
+* Testing the commits ([88e4728](https://github.com/nevengjoreski/test-actions/commit/88e47289431f04f79373d9ad92216270fb5380ec))
+* Testing the commits ([9e3c78e](https://github.com/nevengjoreski/test-actions/commit/9e3c78e9d106c0c1a7144abeafab69c5dd4e443c))
+* Testing the commits ([da237a3](https://github.com/nevengjoreski/test-actions/commit/da237a3910b69c2dda40a82e678aadd245252686))
+* Testing the commits ([c224d66](https://github.com/nevengjoreski/test-actions/commit/c224d66814af1becc0bf7b848ba8b2af5d294b0e))
+* Testing the commits ([d43d260](https://github.com/nevengjoreski/test-actions/commit/d43d26095899a57e19a99f47059bb7dde9133bd0))
+* Testing the commits ([d19f6e4](https://github.com/nevengjoreski/test-actions/commit/d19f6e4cd42ccb6c79bb35dea3563562e93e0a22))
+* Testing the commits ([0d98332](https://github.com/nevengjoreski/test-actions/commit/0d98332d5fa1fe9f976cdb929d4342751978d527))
+* Testing the commits ([9b6a9fc](https://github.com/nevengjoreski/test-actions/commit/9b6a9fc5b25cc690237398b38e1e0515097156d2))
+* Testing the commits ([a305b33](https://github.com/nevengjoreski/test-actions/commit/a305b33f3a72b4bda791d13bcac050da94a99031))
+
+
+### :zap: Performance Improvements
+
+* Testing the commits ([ec4edc1](https://github.com/nevengjoreski/test-actions/commit/ec4edc1f3ed65557e3152611d9571cf98f713cab))
+
 ## [3.7.0](https://github.com/nevengjoreski/test-actions/compare/v3.6.0...v3.7.0) (2023-11-30)
 
 
